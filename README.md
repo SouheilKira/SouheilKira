@@ -73,11 +73,20 @@ class Developer:
 
 <br/>
 
+## Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-302B63?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</div>
+
+<br/>
+
 ## GitHub
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SouheilKira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2FF7&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouheilKira&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
 </div>
 
 <br/>
