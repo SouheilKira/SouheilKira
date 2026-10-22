@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Autonomous+AI+Agents;Based+in+Algeria" alt="Intro" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/SouheilKira?tab=followers"><img src="https://img.shields.io/github/followers/SouheilKira?style=flat-square&color=302B63&labelColor=0D1117&label=followers" /></a>
 <a href="https://github.com/SouheilKira?tab=repositories"><img src="https://img.shields.io/github/stars/SouheilKira?style=flat-square&color=302B63&labelColor=0D1117&label=stars" /></a>
@@ -20,6 +20,27 @@
 ## About
 
 I'm an AI student and developer from Algeria. I work on machine learning, computer vision, and autonomous agents, and I like taking an idea from the algorithm all the way to something that runs.
+
+<br/>
+
+```python
+class Developer:
+    name = "Souheil Bentelidjan"
+    location = "Algeria"
+    field = "Artificial Intelligence"
+
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Autonomous AI Agents",
+        "Data Science",
+        "Software Engineering",
+    ]
+
+    languages = ["Python", "C", "JavaScript"]
+    mission = "Build AI that solves real problems"
+```
 
 <br/>
 
@@ -55,8 +76,8 @@ I'm an AI student and developer from Algeria. I work on machine learning, comput
 ## GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SouheilKira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2FF7&text_color=C9D1D9&hide_title=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouheilKira&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SouheilKira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2FF7&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouheilKira&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
 </div>
 
 <br/>
